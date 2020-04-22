@@ -3,7 +3,7 @@
 
 **Version: 0.1.0**
 
-### This is an App curated for the deescalation of suicidal ideation, and subsequent follow-up treatment scheduling
+#### This is an App curated for the deescalation of suicidal ideation, and subsequent follow-up treatment scheduling
 #### If you would like to join this project, get ahold of us @ [archon.lao@gmail.com](archon.lao@gmail.com)
 
 ### Table of Contents
@@ -111,7 +111,7 @@ Current solutions in market are lacking in efficiency and ability.
 - [ ] Reach out to University of Wyoming about :
    - [ ] Research
    - [ ] Resources
-- [ ] Incorporate as a non-profit
+- [ ] Incorporate as a non-profit : 501(c)(3)
 
 
 ### Updates
