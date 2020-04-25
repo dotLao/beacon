@@ -3,7 +3,7 @@
 
 **Version: 0.1.0**
 
-#### This is an App curated for the deescalation of suicidal ideation, and subsequent follow-up treatment scheduling
+#### This is an App curated for the de-escalation of suicidal ideation, and subsequent follow-up treatment scheduling
 #### You can reach us at [archon.lao@gmail.com](archon.lao@gmail.com) with questions or comments about Beacon.
 
 ### Table of Contents
