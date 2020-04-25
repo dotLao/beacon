@@ -4,7 +4,7 @@
 **Version: 0.1.0**
 
 #### This is an App curated for the deescalation of suicidal ideation, and subsequent follow-up treatment scheduling
-#### If you would like to join this project, get ahold of us @ [archon.lao@gmail.com](archon.lao@gmail.com)
+#### You can reach us at [archon.lao@gmail.com](archon.lao@gmail.com) with questions or comments about Beacon.
 
 ### Table of Contents
 * [Framework of App](#framework)
@@ -25,6 +25,7 @@ Our **Beacon** is a hub for connecting potentially suicidal individuals with a b
 * practitioners 
 
 The flow of the escalation system will be :
+
 **Initial AI Landing -> Volunteer Network -> Professional Practitioner -> EMS**
 
 Our escalation system will push the user through tiers of support, depending on the severity of suicidal ideation. Throught every tier, the goal will be a combination of de-escallation and monitoring. If EMS needs to be alerted, along the way, then that will be possible through the app at every escalation stage.
@@ -108,11 +109,6 @@ Current solutions in market are lacking in efficiency and ability.
 - [ ] Flutter development
 - [ ] Set up Firebase
    - [ ] Link Firebase to working iOS App
-- [ ] Reach out to University of Wyoming about :
-   - [ ] Research
-   - [ ] Resources
-- [ ] Incorporate as a non-profit : 501(c)(3)
-
 
 ### Updates
 #### v0.1.0
