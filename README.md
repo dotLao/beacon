@@ -51,6 +51,7 @@ Current solutions in market are lacking in efficiency and ability.
   * Settings
 * Patient Side
   * Dashboard
+  * Conversation Window
   * Profile
   * Friends 
   * Settings
@@ -99,8 +100,6 @@ Current solutions in market are lacking in efficiency and ability.
    - [ ] Authentication
    - [ ] 3 Different *Sides* of App : Patient, Volunteer, Practitioner
 - [ ] Website Development
-   - [ ] Wix
-      *or*
    - [ ] Set up repository
    - [x] Write initial HTML framework
    - [x] Write initial CSS
