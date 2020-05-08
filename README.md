@@ -20,9 +20,9 @@
    * *A fire or light set up in a high or prominent position as a warning, signal or celebration*
 
 Our **Beacon** is a hub for connecting potentially suicidal individuals with a blend of:
-* responsive artificial intelligence 
-* volunteers
-* practitioners 
+* **Responsive AI**
+* **Volunteers**
+* **Licensed Practitioners** 
 
 The flow of the escalation system will be :
 
@@ -30,18 +30,18 @@ The flow of the escalation system will be :
 
 Our escalation system will push the user through tiers of support, depending on the severity of suicidal ideation. Throught every tier, the goal will be a combination of de-escallation and monitoring. If EMS needs to be alerted, along the way, then that will be possible through the app at every escalation stage.
 
-We believe this app could develop a longer reach than traditional suicide prevention efforts, and offer a more comfortable medium for individuals to start the discussion; **a computer program.** 
+We believe this app could develop a longer reach than traditional suicide prevention efforts, and offer a more comfortable medium for individuals to start the discussion; ***a computer program.*** 
 
-The primary focus would be to de-escalate individuals, and connect them with follow-up services. Alternately, the individual can be pushed through the escalation system, culminating in an alert to EMS.
+The primary focus would be to de-escalate users, and connect them with follow-up services. Alternately, the individual can be pushed through the escalation system, culminating in an alert to EMS.
 
 Current solutions in market are lacking in efficiency and ability.
-
 
 #### Layout
 * Landing
 * Authorization
 * Volunteer Side
   * Dashboard
+  * Conversation Window
   * Profile
   * Active Beacons
   * Map
@@ -57,6 +57,7 @@ Current solutions in market are lacking in efficiency and ability.
   * Settings
 * Professional Consultant Side
    * Dashboard
+   * Conversation Window
    * Profile
    * Escalated Beacons
    * Map
@@ -67,17 +68,17 @@ Current solutions in market are lacking in efficiency and ability.
 
 #### Features
 * **Intake Intelligence**
-   * Artifical intelligence bot programmed to de-escalate the *patient* with a focus on gathering information
-   * Monitoring / Recording Feature
-   * Ability to recommend escalation *speed* 
+   * Artifical Intelligence bot programmed to de-escalate the user (*with a focus on gathering information*)
+   * Monitoring and Recording
+   * Ability to recommend escalation strategy (*speed*, *best path*) 
 * **Volunteer Network**
    * *Ratings Hierarchy* for organizing volunteers
-   * Ability to connect with *beacons*
+   * Ability to connect with ***beacons***
    * Monitoring / Recording Feature
    * *Next Steps* modal for follow-up services
    *EMS **Code Red** Button
 * **Professional Consultant Network**
-   * Ability to connect with *beacons*
+   * Ability to connect with ***beacons***
    * Monitoring / Recording Feature
    * *Next Steps* modal for follow-up services
    * EMS **Code Red** Button
