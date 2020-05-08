@@ -82,7 +82,7 @@ Current solutions in market are lacking in efficiency and ability.
    * EMS **Code Red** Button
 * Chat (& optional video) functions for all sides
 * Live maps displaying localized *beacons*
-
+* Ability to reach Beacon support through *711*
 
 ### Planning
 - [ ] Branding Kit
@@ -102,8 +102,8 @@ Current solutions in market are lacking in efficiency and ability.
    - [ ] Wix
       *or*
    - [ ] Set up repository
-   - [ ] Write initial HTML framework
-   - [ ] Write initial CSS
+   - [x] Write initial HTML framework
+   - [x] Write initial CSS
    - [ ] Set up initial JS functionality
 - [ ] Android Development 
 - [ ] Flutter development
