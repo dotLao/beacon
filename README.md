@@ -3,6 +3,9 @@
 
 **Version: 0.1.0**
 
+<img src="/img/beaconFlameOne.png" alt="logo"
+        title="Beacon Icon" width="526" height=786" />
+
 #### This is an App curated for the de-escalation of suicidal ideation, and subsequent follow-up treatment scheduling
 #### You can reach us at [archon.lao@gmail.com](archon.lao@gmail.com) with questions or comments about Beacon.
 
@@ -88,7 +91,7 @@ Current solutions in market are lacking in efficiency and ability.
 
 ### Planning
 - [ ] Branding Kit
-   - [ ] Logo
+   - [x] Logo
    - [ ] Font
    - [ ] Color Palette
 - [ ] UI/UX Design
@@ -101,7 +104,7 @@ Current solutions in market are lacking in efficiency and ability.
    - [ ] Authentication
    - [ ] 3 Different *Sides* of App : Patient, Volunteer, Practitioner
 - [ ] Website Development
-   - [ ] Set up repository
+   - [x] Set up repository
    - [x] Write initial HTML framework
    - [x] Write initial CSS
    - [ ] Set up initial JS functionality
@@ -109,6 +112,9 @@ Current solutions in market are lacking in efficiency and ability.
 - [ ] Flutter development
 - [ ] Set up Firebase
    - [ ] Link Firebase to working iOS App
+- [ ] AI Chat Bot
+   - [x] Source bot
+   - [ ] Train
 
 ### Updates
 #### v0.1.0
