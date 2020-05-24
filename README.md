@@ -3,8 +3,8 @@
 
 **Version: 0.1.0**
 
-<img src="/img/beaconFlameOne.png" alt="logo"
-        title="Beacon Icon" width="263" height=393" />
+<img src="/img/beaconFlameTwo.png" alt="logo"
+        title="Beacon Icon" width="150" height=150" />
 
 #### This is an App curated for the de-escalation of suicidal ideation, and subsequent follow-up treatment scheduling
 #### You can reach us at [archon.lao@gmail.com](archon.lao@gmail.com) with questions or comments about Beacon.
