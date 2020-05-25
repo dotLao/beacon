@@ -1,7 +1,7 @@
 # Beacon
 ## Suicidal Ideation De-escalation Application
 
-**Version: 0.1.0**
+**Version: 0.1.1**
 
 <img src="/img/beaconFlameTwo.png" alt="logo"
         title="Beacon logo" width="150" height="150" />
