@@ -7,7 +7,7 @@
         title="Beacon logo" width="150" height="150" />
 
 #### This is an App curated for the de-escalation of suicidal ideation, and subsequent follow-up treatment scheduling
-#### You can reach us at [archon.lao@gmail.com](archon.lao@gmail.com) with questions or comments about Beacon.
+#### You can reach us at [dtodd.beacon@gmail.com](dtodd.beacon@gmail.com) with questions or comments about Beacon.
 
 ### Table of Contents
 * [Framework of App](#framework)
@@ -99,9 +99,9 @@ Current solutions in market are lacking in efficiency and ability.
    - [ ] Desktop Layout
    - [ ] Mobile Web Layout
 - [ ] iOS Development 
-   - [ ] Make initial framework on xCode
+   - [x] Make initial framework on xCode
    - [ ] Landing Page
-   - [ ] Authentication
+   - [x] Authentication
    - [ ] 3 Different *Sides* of App : Patient, Volunteer, Practitioner
 - [ ] Website Development
    - [x] Set up repository
@@ -110,12 +110,20 @@ Current solutions in market are lacking in efficiency and ability.
    - [ ] Set up initial JS functionality
 - [ ] Android Development 
 - [ ] Flutter development
-- [ ] Set up Firebase
-   - [ ] Link Firebase to working iOS App
+- [ ] Database
+   - [x] Set up Firebase (SDK)
+   - [x] Link Firebase to App  
+   - [ ] Link to Firebase Crashalytics
+   - [ ] Link to Google Analytics
+   - [ ] Security / PHI
 - [ ] AI Chat Bot
    - [x] Source bot
    - [ ] Train
 
 ### Updates
+#### v0.1.1 
+* initial framework for Beacon iOS App
+* set up Firebase
+
 #### v0.1.0
 **MILESTONE: *Initial Commit***
