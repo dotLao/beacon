@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>225178142829-mu7ee3nugcpmmsi3i9d3fgpn0mav4vk7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.225178142829-mu7ee3nugcpmmsi3i9d3fgpn0mav4vk7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsiLI7afm9JGwezP3bgdvc-Drci27GiXs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>225178142829</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dotlao.beacon</string>
+	<key>PROJECT_ID</key>
+	<string>beacon-ed0c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beacon-ed0c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:225178142829:ios:977f1674e70fc646f69764</string>
+	<key>DATABASE_URL</key>
+	<string>https://beacon-ed0c8.firebaseio.com</string>
+</dict>
+</plist>
