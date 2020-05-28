@@ -13,8 +13,9 @@ struct LoginView: View {
     @EnvironmentObject var session:FirebaseSession
     var body: some View {
         VStack{
-            Text("Welcome!")
+            Text("We are here to help.")
                 .font(.headline)
+            Spacer()
             Text("Please sign in")
                 .font(.subheadline)
                 .foregroundColor(Color.gray)

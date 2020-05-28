@@ -10,7 +10,6 @@ import SwiftUI
 
 struct ContentView: View {
      @EnvironmentObject var session:FirebaseSession
-       // let data = ["stringOne","stringTwo","stringThree","stringFour","stringFive", "stringSix"]
         let data = TestData.self
         @State var testData:[TestData] = []
         var body: some View {
@@ -29,7 +28,6 @@ struct ContentView: View {
                             ForEach (self.testData) {item in
                                 NavigationLink(destination: DetailView(item:item)) {
                                     CellView(item:item)
-            //                        Text("")
                                 }
                             }
                         }.navigationBarTitle("users")

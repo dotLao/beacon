@@ -3,10 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D65FF8C247FB1EF004EABDD /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D65FF8B247FB1EF004EABDD /* ChatView.swift */; };
 		5DE0B345247C636900754557 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE0B344247C636900754557 /* AppDelegate.swift */; };
 		5DE0B347247C636900754557 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE0B346247C636900754557 /* SceneDelegate.swift */; };
 		5DE0B349247C636900754557 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE0B348247C636900754557 /* ContentView.swift */; };
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		31612861CB7A8784ABE74613 /* Pods-beacon.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-beacon.debug.xcconfig"; path = "Target Support Files/Pods-beacon/Pods-beacon.debug.xcconfig"; sourceTree = "<group>"; };
+		5D65FF8B247FB1EF004EABDD /* ChatView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
 		5DE0B341247C636900754557 /* beacon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = beacon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE0B344247C636900754557 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5DE0B346247C636900754557 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				5DE0B344247C636900754557 /* AppDelegate.swift */,
 				5DE0B346247C636900754557 /* SceneDelegate.swift */,
 				5DE0B348247C636900754557 /* ContentView.swift */,
+				5D65FF8B247FB1EF004EABDD /* ChatView.swift */,
 				5DE0B35E247C64C700754557 /* CellView.swift */,
 				5DE0B358247C64AE00754557 /* DetailView.swift */,
 				5DE0B35A247C64B300754557 /* LoginView.swift */,
@@ -114,7 +117,6 @@
 				31612861CB7A8784ABE74613 /* Pods-beacon.debug.xcconfig */,
 				CC6ECB197EE10EE15557CDC9 /* Pods-beacon.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -239,6 +241,7 @@
 				5DE0B359247C64AE00754557 /* DetailView.swift in Sources */,
 				5DE0B347247C636900754557 /* SceneDelegate.swift in Sources */,
 				5DE0B35D247C64BF00754557 /* FirebaseSession.swift in Sources */,
+				5D65FF8C247FB1EF004EABDD /* ChatView.swift in Sources */,
 				5DE0B35B247C64B300754557 /* LoginView.swift in Sources */,
 				5DE0B349247C636900754557 /* ContentView.swift in Sources */,
 				5DE0B35F247C64C800754557 /* CellView.swift in Sources */,

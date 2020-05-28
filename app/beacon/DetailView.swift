@@ -11,6 +11,7 @@ import Foundation
 
 struct DetailView: View {
     var item: TestData
+    @State var showChat = false
     var body: some View {
         VStack{
             HStack(alignment:.top){
@@ -20,11 +21,20 @@ struct DetailView: View {
                  .frame(width: 100.0,height:100)
                  .shadow(radius: 10)
                 Text(item.name)
-                // .multilineTextAlignment(.center)
                  .font(.headline)
                 Spacer()
             }.padding()
+            .sheet(isPresented: self.$showChat) {
+                 ChatView()
+            }
             Spacer()
+            Button(action: {
+                self.showChat.toggle()
+            }) {
+                Text("Start a conversation")
+                    .font(.largeTitle)
+                    .fontWeight(.ultraLight)
+            }
         }
         .navigationBarTitle("Beacon",displayMode: .inline)
     }
