@@ -3,10 +3,10 @@
 
 **Version: 0.1.1**
 
-<img src="/img/beaconFlameTwo.png" alt="logo"
+<img src="/img/beaconLateralFlame.png" alt="logo"
         title="Beacon logo" width="150" height="150" />
 
-#### This is an App curated for the de-escalation of suicidal ideation, and subsequent follow-up treatment scheduling
+#### This is an App curated for the de-escalation of suicidal ideation, and subsequent scheduling of follow-up treatment
 #### You can reach us at [dtodd.beacon@gmail.com](dtodd.beacon@gmail.com) with questions or comments about Beacon.
 
 ### Table of Contents
