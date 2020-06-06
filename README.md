@@ -93,7 +93,12 @@ Current solutions in market are lacking in efficiency and efficacy.
 - [ ] Branding Kit
    - [x] Logo
    - [ ] Font
-   - [x] Color Palette
+   - [x] Color Palette :
+	- ![#86BBBD](https://placehold.it/15/86BBBD/000000?text=+) `#86BBBD`
+	- ![#76949F](https://placehold.it/15/76949F/000000?text=+) `#76949F`
+	- ![#6A6B83](https://placehold.it/15/6A6B83/000000?text=+) `#6A6B83`
+	- ![#5F506B](https://placehold.it/15/5F506B/000000?text=+) `#5F506B`
+	- ![#533747](https://placehold.it/15/533747/000000?text=+) `#533747`
 - [ ] UI/UX Design
    - [ ] App Layout
    - [ ] Desktop Layout
