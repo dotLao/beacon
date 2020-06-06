@@ -1,13 +1,13 @@
 # Beacon
-## Suicidal Ideation De-escalation Application
+## Suicidality De-escalation Application
 
 **Version: 0.1.1**
 
-<img src="/img/beaconLateralFlame.png" alt="logo"
+<img src="/img/beaconNewFade.png" alt="logo"
         title="Beacon logo" width="150" height="150" />
 
 #### This is an App curated for the de-escalation of suicidal ideation, and subsequent scheduling of follow-up treatment
-#### You can reach us at [dtodd.beacon@gmail.com](dtodd.beacon@gmail.com) with questions or comments about Beacon.
+#### You can reach me at [dtodd.beacon@gmail.com](dtodd.beacon@gmail.com) with questions or comments about Beacon.
 
 ### Table of Contents
 * [Framework of App](#framework)
@@ -37,7 +37,7 @@ We believe this app could develop a longer reach than traditional suicide preven
 
 The primary focus would be to de-escalate users, and connect them with follow-up services. Alternately, the individual can be pushed through the escalation system, culminating in an alert to EMS.
 
-Current solutions in market are lacking in efficiency and ability.
+Current solutions in market are lacking in efficiency and efficacy.
 
 #### Layout
 * Landing
@@ -93,7 +93,12 @@ Current solutions in market are lacking in efficiency and ability.
 - [ ] Branding Kit
    - [x] Logo
    - [ ] Font
-   - [ ] Color Palette
+   - [x] Color Palette :
+	- ![#86BBBD](https://placehold.it/15/86BBBD/000000?text=+) `#86BBBD`
+	- ![#76949F](https://placehold.it/15/76949F/000000?text=+) `#76949F`
+	- ![#6A6B83](https://placehold.it/15/6A6B83/000000?text=+) `#6A6B83`
+	- ![#5F506B](https://placehold.it/15/5F506B/000000?text=+) `#5F506B`
+	- ![#533747](https://placehold.it/15/533747/000000?text=+) `#533747`
 - [ ] UI/UX Design
    - [ ] App Layout
    - [ ] Desktop Layout
